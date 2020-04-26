@@ -1,4 +1,4 @@
-age com.neo.controller;
+package com.neo.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
